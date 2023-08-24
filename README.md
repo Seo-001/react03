@@ -1,6 +1,7 @@
 
-
 ## 3. 3차 프로젝트 
+<img src="./img_readme/3차프로젝트.png"  width="400" height="200">
+
 ### 링크 : 
 #### 완성품: Click [here](https://seo-001.github.io/react03/)  
 #### 디렉토리:Click [here](https://github.com/Seo-001/react03/blob/main/index.html)
